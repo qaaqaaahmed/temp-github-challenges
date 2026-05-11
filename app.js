@@ -1,2 +1,3 @@
-console.log('simple console from TICKET 22')
-console.log('hi there')
+console.log('TICKET 33 CHAOS INCOMING')
+console.log('ticket 33 says hi')
+console.log('ticket 33 feels like saying hi again')
